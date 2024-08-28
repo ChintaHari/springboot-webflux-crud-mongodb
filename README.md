@@ -99,3 +99,9 @@ Ensure MongoDB is running on your system. Follow these steps to get the applicat
    ```
    
 The server will start at http://localhost:8081. You can access the defined endpoints using a tool like Postman or through your browser to interact with the API.
+
+![MongoDB Compass](images/MongoDbCompass.jpg)
+
+![Test cases passed](images/TestCasesPassed.jpg)
+
+
