@@ -90,8 +90,8 @@ Ensure MongoDB is running on your system. Follow these steps to get the applicat
 1. **Clone the Repository:**
    
    ```bash
-   git clone [your-repository-url]
-   cd [your-project-directory]
+   git clone https://github.com/ChintaHari/springboot-webflux-crud-mongodb
+   cd springboot-webflux-crud-mongodb
    ```
    
 3. **Run the Application:** Use Maven to start the server:
