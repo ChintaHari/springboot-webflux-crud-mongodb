@@ -16,6 +16,8 @@ WebFlux is a reactive framework from Spring that supports non-blocking, asynchro
 #### WebFlux:
 - **Asynchronous and Non-blocking:** Does not block the thread while waiting for data, freeing it to handle other tasks.
 - **Highly Scalable:** More efficient in handling more requests with fewer threads, particularly beneficial for I/O-bound applications.
+- ![WebFlux Working](images/WebFluxWorking.jpg)
+
 
 ### Practical Scenarios
 
